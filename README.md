@@ -46,6 +46,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ![Exercicio 1](Imagens/1.png)
 
+
 ## RESPOSTA:
 
 ```sql
