@@ -48,7 +48,6 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ## RESPOSTA:
 
-```sql
 SELECT Nome, Ano
 FROM Filmes;
 
